@@ -1,36 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Project Track: LuxRide
 
-## Getting Started
+Trello : https://trello.com/b/YBE6UET8/car-selling-app
+Jira:: https://software-track.atlassian.net/browse/KAN-1?atlOrigin=eyJpIjoiYjNmZGQ0ODIzNjhiNDI3M2IzNTBjNTcwNmU3N2YwZTgiLCJwIjoiaiJ9
 
-First, run the development server:
+Documentation:
+Notion::    https://www.notion.so/Project-1-28115ad9b95780f182cef7346762bb23
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Todist::     https://app.todoist.com/app/inbox
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Follow Website::  https://bhalogari.com/
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+final:: https://www.cars.com/?oauth_redirect=true&redirect_event%5Bnew_account%5D=true
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
